@@ -8,7 +8,7 @@ c. Pilih file Jupyter Notebook (misalnya, AIProyek.ipynb) dari komputer Anda dan
 
 ## Clone Folder ProyekAI ke Google Drive
 
-Copy/Clone folder ProyekAI kedalam google drive anda, berikut link dari folder ProyekAI [https://drive.google.com/drive/folders/1pCM33CrEEuJ6RxUHmM9GyU-6MGh8MJUq?usp=sharing](https://drive.google.com/drive/folders/1pCM33CrEEuJ6RxUHmM9GyU-6MGh8MJUq?usp=drive_link).
+Copy/Clone folder ProyekAI kedalam google drive anda, berikut link dari folder ProyekAI [https://drive.google.com/drive/folders/1pCM33CrEEuJ6RxUHmM9GyU-6MGh8MJUq?usp=drive_link](https://drive.google.com/drive/folders/1pCM33CrEEuJ6RxUHmM9GyU-6MGh8MJUq?usp=drive_link).
 
 ## Buat Folder Output di Google Colab
 Di Google Colab, buat folder output dengan mengetuk gambar folder dikiri lalu klik kanan buat folder dengan nama output.
