@@ -28,6 +28,6 @@ Anda dapat menjalankan sel-sel kode satu per satu dengan mengklik tombol "Run" d
 Berikut adalah referensi dan publikasi yang digunakan : 
 1. [Kamus Alay - Colloquial Indonesian Lexicon](https://github.com/nasalsabila/kamus-alay) - Nikmatun Aliyah Salsabila
 2. [InSet (Indonesia Sentiment Lexicon)](https://github.com/fajri91/InSet). - Fajri Koto 
-3. [Spacy](https://spacy.io/universe/project/spacy-textblob)
+3. [spaCy](https://spacy.io/universe/project/spacy-textblob)
 4. [NLTK](https://www.nltk.org/)
 5. [Matplotlib](https://matplotlib.org/)
